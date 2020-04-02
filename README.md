@@ -1,2 +1,2 @@
 # Computer-Vision
-UCSD CSE252A, CSE252B materials
+UCSD CSE252b Computer vision2 materials
